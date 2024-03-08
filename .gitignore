@@ -1,2 +1,4 @@
 debugging.py
 *.pyc
+data/*
+data
